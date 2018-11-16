@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "826948906064",
+    "firebase_url": "https://quotes-57e26.firebaseio.com",
+    "project_id": "quotes-57e26",
+    "storage_bucket": "quotes-57e26.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:826948906064:android:0041b858012bb422",
+        "android_client_info": {
+          "package_name": "com.justclack.awesome_quotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "826948906064-kr9ebjtkn0ogrkq609s579klfk695mem.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRFBH0dbV17B5_AM6C6aOUGJ77LSTIwC4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

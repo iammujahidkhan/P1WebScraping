@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Legends Quotes</string>
+    <string name="app_name2">Legends_Quotes</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="link11">market://details?id=</string>
+    <string name="link10">http://play.google.com/store/apps/details?id=</string>
+</resources>
